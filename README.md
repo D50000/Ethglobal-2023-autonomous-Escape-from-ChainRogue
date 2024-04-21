@@ -1,10 +1,23 @@
-# EthGlobal 2023 - Autonomous Worlds
+# [EthGlobal 2023 - Autonomous Worlds](https://ethglobal.com/events/autonomous)
+![](https://github.com/D50000/Ethglobal-2023-autonomous-Escape-from-ChainRogue/blob/main/assets/Autonomous Worlds.jpg)  
+We invite you to join the first virtual Autonomous Worlds hackathon, where participants will explore the potential of multi-author Worlds by developing onchain games, worlds, and art projects.  
 
-[ETHGlobal](https://ethglobal.com/) Hackathons of [Autonomous Worlds](https://ethglobal.com/events/autonomous#docs) project.
-
-Explore Autonomous Worlds and MUD with 0xPARC, Lattice, and ETHGlobal at May 18 – 26, 2023.  
 Leverage the power of MUD, a new framework designed for ambitious Ethereum applications, and follow in the footsteps of dozens of teams that have already built unique projects with it, including OPCraft — an onchain voxel world, EVM Factorio, real-time strategy games, and more.
-[See the Prizes](https://ethglobal.com/events/autonomous/prizes)
+
+## Project Ideas, Competition Rules
+- [What can you build?](https://ethglobal.com/events/autonomous#docs)  
+  By working with the MUD framework, participants will not only contribute to the growth of these worlds but also deepen the understanding of the concept of Autonomous Worlds and its implications in technology and digital collaboration.
+- [Prize and Categories](https://ethglobal.com/events/autonomous/prizes)  
+![](https://github.com/D50000/Ethglobal-2023-autonomous-Escape-from-ChainRogue/blob/main/assets/prizes.jpg) 
+
+## Competition Result:
+- [Proof of Attendance Protocol](https://github.com/D50000/Ethglobal-2023-autonomous-Escape-from-ChainRogue/blob/main/assets/poap.jpg) 
+
+- Certificate  
+  ![](https://github.com/D50000/Ethglobal-2023-autonomous-Escape-from-ChainRogue/blob/main/assets/certificate.jpg) 
+
+  
+====================== Project Detail ======================  
 
 ## Project: [Escape-from-Chain](https://ethglobal.com/showcase/escape-from-chain-w9npn)
 LOGO:  
